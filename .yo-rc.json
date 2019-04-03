@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ProgettoAnimeServer",
+    "packageName": "me.pietrangelo.progettoanime",
+    "packageFolder": "me/pietrangelo/progettoanime",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "ZWI2NmU4MmNkNWNkNjY2YTMzNDA2YWZhMDM0MjgzMjEwMGRiMTdhZjM3YTAwYWVjYzU4N2JiYTMzODRjMTBiMWE3MjVkMGYyMjgyNjZhNmYwODBkYmMxNWFmMjA1MmEwNzNkNzI0OTQ4NDIxZjY3YTM3ZTJkYjhmYTZjMTYwNGI=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "NIcolaPietrangelo",
+  "repository-name": "ProettoAnime-server"
+}
